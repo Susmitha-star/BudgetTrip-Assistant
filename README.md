@@ -68,9 +68,9 @@ This project is open-source and licensed under the MIT License.
 ## 🖼️ Repository Structure
 ```
 BudgetTrip-Assistant/
-├── app.py                    # Main Streamlit application  
-├── LICENSE                   # License information  
+├── LICENSE                   # License information
 ├── README.md                 # Project documentation  
+├── app.py                    # Main Streamlit application  
 ├── requirements.txt          # Python dependencies  
 ```
 
